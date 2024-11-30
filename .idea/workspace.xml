@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef88e261-09ec-4830-bbae-8969c7c89248" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/L2023120240_2_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/L2023120240_2_Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="ef88e261-09ec-4830-bbae-8969c7c89248" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +70,7 @@
       <recent name="E:\A开源软件开发实践\OSSDP-Lab2\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.L2023120240_2_Test">
+  <component name="RunManager">
     <configuration name="L2023120240_2_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L2023120240_2_Test" />
       <module name="your-project-name" />
@@ -105,13 +102,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -122,8 +112,6 @@
       <updated>1732966077579</updated>
       <workItem from="1732966082657" duration="5561000" />
       <workItem from="1732972378723" duration="1465000" />
-      <workItem from="1732975902977" duration="191000" />
-      <workItem from="1732976107280" duration="28000" />
     </task>
     <servers />
   </component>
