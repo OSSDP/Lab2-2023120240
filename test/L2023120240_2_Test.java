@@ -1,6 +1,6 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
-
+//2023120244 验证测试通过
 public class L2023120240_2_Test {
 
     private Solution2 solution2 = new Solution2();
